@@ -1,0 +1,27 @@
+Graphics indexes
+
+0 hex grey
+1 hex red
+2 hex blue
+3 outline red
+4 outline green
+5 outline blue
+6 undo
+7 restart
+8 fullscreen
+9 quit
+10 multi
+11 0
+12 1
+13 2
+14 3
+15 4
+16 5
+17 6
+18 7
+19 8
+20 9
+21 free space
+22 out red back
+23 out green back
+24 out blue back
